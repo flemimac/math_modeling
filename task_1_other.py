@@ -9,3 +9,4 @@ elif D > 0:
           (-b - d) / (2 * a), sep='\n')
 else:
     print('Нет корней.')
+    

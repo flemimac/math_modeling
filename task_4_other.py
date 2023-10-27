@@ -8,3 +8,4 @@ while count * count <= number:
         print(count, end=" ")
 if number != 1:
     print(number)
+    
