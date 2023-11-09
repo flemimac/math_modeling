@@ -1,0 +1,10 @@
+gravitational_constant = 6,67 * 10**(-11)
+speed_of_light = 3 * 10**8
+elemental_charge = 1.60219 * 10**(-19)
+Avogardo_constant = 6.022 * 10*23
+Boltzmann_constant = 1.3807 * 10**(-23)
+Faraday_constant = 9.648 * 10**4
+Electron_volt = 1.60219 * 10**(-19)
+Electrical_constant = 8.854 * 10**(-12)
+Gravity = 9.8
+Planck_constant = 6.626 * 10**39
